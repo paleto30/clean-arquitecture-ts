@@ -1,0 +1,5 @@
+[ Sun Feb 11 2024 15:04:51 GMT-0500 (Colombia Standard Time) ] -> status(409) Error: El correo no esta disponible.
+[ Sun Feb 11 2024 15:05:24 GMT-0500 (Colombia Standard Time) ] -> status(409) Error: El correo no esta disponible.
+[ Sun Feb 11 2024 15:05:56 GMT-0500 (Colombia Standard Time) ] -> status(404) Error: No existe un registro con id dd0cfb53-6a5f-47f7-a34c-5c35d41f0c88
+[ Sun Feb 11 2024 16:53:33 GMT-0500 (Colombia Standard Time) ] -> status(404) Error: Registro no encontrado.
+[ Tue Feb 13 2024 16:57:26 GMT-0500 (Colombia Standard Time) ] -> status(404) Error: Registro no encontrado.

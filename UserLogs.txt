@@ -1,3 +1,0 @@
-[ Sun Feb 11 2024 14:54:57 GMT-0500 (Colombia Standard Time) ] <- <Error>: Error: No existe un registro con id 21ea86f5-c7b3-4fb9-a0ab-884b904395ba
-[ Sun Feb 11 2024 14:55:23 GMT-0500 (Colombia Standard Time) ] <- <Error>: Error: No existe un registro con id 21ea86f5-c7b3-4fb9-a0ab-884b904395ba
-[ Sun Feb 11 2024 14:55:26 GMT-0500 (Colombia Standard Time) ] <- <Error>: Error: No existe un registro con id 21ea86f5-c7b3-4fb9-a0ab-884b904395ba

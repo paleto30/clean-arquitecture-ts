@@ -4,3 +4,8 @@ el objetivo de este proyecto es aprender y implementar diferentes metodos y estr
 conseguir una arquitectura mas limpia,  un codigo mas mantenible y menos acoplado.
 
 
+referencias
+![alt text](image.png)
+
+
+![alt text](image-1.png)
